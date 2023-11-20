@@ -4,14 +4,11 @@
 In this T20-Cricket-Data-Analytics Project, I've taken a comprehensive T20 Cricket World-Cup data from the Code Basics platform. This dataset contains information about batsmen, bowlers, match details, and player profiles. I have use Microsoft Power BI for making the dashboard, Python and Microsoft Excel for data transformation and cleaning. Using the dashboard, we can easily analyse the data of each players so that we can choose our best playing Top 11 players.
 
 
-
-[![MIT License](https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)](https://choosealicense.com/licenses/mit/) 
-
-[![GPLv3 License](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)](https://opensource.org/licenses/) 
-
-[![AGPL License](https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)](https://pandas.pydata.org/)
-
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-darkgreen.svg?style=for-the-badge&logo=x&logoColor=white)
 
 
 ## Batting Dataset
