@@ -74,4 +74,8 @@ The 'batman.csv' dataset details the performance of individual batsmen, includin
 
 ## Dataset Screenshot
 
-![Alt Text](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
+![Alt Text](https://github.com/Muhammad1umer-tech/T20-Cricket-data-Analytics/blob/main/Dashboard-screenshots/Capture.PNG)
+
+![Alt Text](https://github.com/Muhammad1umer-tech/T20-Cricket-data-Analytics/blob/main/Dashboard-screenshots/Capture2.PNG)
+
+![Alt Text](https://github.com/Muhammad1umer-tech/T20-Cricket-data-Analytics/blob/main/Dashboard-screenshots/Capture1.PNG)
