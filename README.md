@@ -1,7 +1,6 @@
 
 # Cricket-World-Cup-Analytics
 
----
 In this T20-Cricket-Data-Analytics Project, I've taken a comprehensive T20 Cricket World-Cup data from the Code Basics platform. This dataset contains information about batsmen, bowlers, match details, and player profiles. I have use Microsoft Power BI for making the dashboard, Python and Microsoft Excel for data transformation and cleaning. Using the dashboard, we can easily analyse the data of each players so that we can choose our best playing Top 11 players.
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -9,6 +8,7 @@ In this T20-Cricket-Data-Analytics Project, I've taken a comprehensive T20 Crick
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/excel-darkgreen.svg?style=for-the-badge&logo=x&logoColor=white)
+
 ---
 
 ## Batting Dataset
@@ -79,6 +79,7 @@ The 'batman.csv' dataset details the performance of individual batsmen, includin
 ![Alt Text](https://github.com/Muhammad1umer-tech/T20-Cricket-data-Analytics/blob/main/Dashboard-screenshots/Capture2.PNG)
 
 ![Alt Text](https://github.com/Muhammad1umer-tech/T20-Cricket-data-Analytics/blob/main/Dashboard-screenshots/Capture1.PNG)
+
 ---
 > You can download pbix file from the repository, to interact with the dashboard and open it in Microsoft Power BI Desktop locally.
 ---
